@@ -7,4 +7,5 @@ end
 
 def dogs 
   @@all << name 
+end 
 end
