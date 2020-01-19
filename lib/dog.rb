@@ -1,3 +1,4 @@
+require.pry
 class Dog
 attr_accessor :name
 @@all = []
@@ -8,4 +9,5 @@ end
 def dogs 
   @@all << name 
 end 
+
 end
